@@ -1,0 +1,280 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Explore Our Real State investment Company Compounds & villas </title>
+
+    @*<script src="Scripts/jquery-3.0.0.min.js"></script>*@
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/fontawesome-free-5.11.2-web/css/all.css" rel="stylesheet" />
+    <link href="~/Project Css/index.css" rel="stylesheet" />
+
+
+
+
+
+</head>
+<body class="page_9f20d9383306429e81c104b30ef8a218 normal-mode browser-chrome cookiebanner search-input-active-bar">
+    @section UserNav{
+        @{ Html.RenderPartial("_UserNav");}
+    }
+    <header class="mb-sm-5">
+        <div class="container">
+           
+            <video playsinline="playsinline" autoplay="autoplay" muted="muted" loop="loop">
+                <source src="~/Vedio/AFRINA%20Construction%20company.mp4" type="video/mp4" />
+            </video>
+
+        </div>
+    </header>
+    @*/***********************************counter*******************************/*@
+
+    <section class="counters mt-sm-n5">
+        <div class="container">
+            <div class="row">
+                <br />
+                <div class="col text-center">
+
+                </div>
+
+            </div>
+            <div class="row text-center mt-sm-5 mb-sm-3">
+                <div class="col mt-sm-5">
+                    <div class="counter">
+                        <i class="fas fa-users"></i>
+                        <h2 class="timer count-title count-number" data-to="1850" data-speed="1500"></h2>
+                        <p class="count-text ">Our Clients</p>
+                    </div>
+                </div>
+                <div class="col mt-sm-5">
+                    <div class="counter">
+                        <i class="fas fa-laugh-beam"></i>
+                        <h2 class="timer count-title count-number" data-to="1795" data-speed="1500"></h2>
+                        <p class="count-text ">Happy Clients</p>
+                    </div>
+                </div>
+                <div class="col mt-sm-5">
+                    <div class="counter">
+                        <i class="fas fa-hourglass"></i>
+                        <h2 class="timer count-title count-number" data-to="11900" data-speed="1500"></h2>
+                        <p class="count-text ">Working Hours</p>
+                    </div>
+                </div>
+                <div class="col mt-sm-4">
+                    <div class="counter completed-projects">
+                        <i class="fas fa-project-diagram"></i>
+                        <h2 class="timer count-title count-number" data-to="1537" data-speed="1500"></h2>
+                        <p class="count-text ">Projects Completed</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--////////////////////////////////////////who we are//////////////////////////////////-->
+
+    <section class="AboutSection">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <div class="aboutinfo">
+
+                        <h5 class="who aboutus">
+                            Who we are
+                        </h5>
+
+                        <h3 class="vision aboutus">
+                            Vision Driven
+                        </h3>
+
+                        <p class="aboutparagragh">
+                            In our quest to create ‘great moments for everyone, everyday’, AFRINA has enabled happiness in the lives of people from around the world. Find out more about who we are.
+                        </p>
+                        @Html.ActionLink("Explore The Journy", "About", null, new { @class = "explore btn bg-dark" })
+                        @*<button class=" explore btn bg-dark">Explore The Journy</button>*@
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 mr-sm-n5">
+                    <div class="aboutvideo">
+
+                    </div>
+                    <div class="aboutinfo">
+                        <img src="~/images/image_9.jpg" class="indeximage" height="400" />
+
+
+
+
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!--//////////////////////////////////////////////////////////Projects////////////////////////////////////////-->
+    <section class="projects">
+        <div class="container">
+            <div class="row">
+                <div>
+                    <h2>
+                        OUR ACHIEVMENTS
+                    </h2>
+                </div>
+                <div class="col-md-12">
+
+                    <div id="mdb-lightbox-ui"></div>
+
+                    <div class="mdb-lightbox">
+
+                        <figure class="col-md-4 firstfig">
+                            <img src="~/images/image_2.jpg" class="firstfig " height="300" />
+
+                        </figure>
+
+                        <figure class="col-md-4 secondfig">
+                            <img src="~/images/bg_4.jpg" class="secondfig " height="300" />
+
+
+
+                        </figure>
+
+                        <figure class="col-md-4 thirdfig">
+
+                            <img src="~/images/bg_1.jpg" class="thirdfig " height="300" />
+
+                        </figure>
+
+                    </div>
+                </div>
+                <div class="allprojects">
+                    @Html.ActionLink("View All Projects >>>", "Project", null, new { @class = "ViewAllProjects" })
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!--///////////////////////////////////////////////////Services/////////////////////////////////-->
+
+
+    <br />
+    <br />
+    <br />
+    <section class="ftco-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 mb-3 text-center ftco-animate servicediv">
+                    <div class="pricing p-4 py-5">
+                        <div class="icon mb-2"><span class="flaticon-skyline"></span></div>
+                        <h3 class="mb-3">Apartments</h3>
+                        <i class="fas fa-home"></i>
+                        <p class="servicepragragh mb-4">The units come with tiled floors and feature a fully equipped kitchen with a dishwasher, a dining area, a flat-screen TV with satellite channels, and a private bathroom with shower and a hairdryer.<br /></p> <br />
+                        @Html.ActionLink("Details", "Service", null, new { @class = "Apartments btnserviece btn btn-dark px-4 py-3" })
+
+
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3 text-center ftco-animate servicediv">
+                    <div class="pricing p-4 py-5">
+                        <div class="icon mb-2"><span class="flaticon-skyline"></span></div>
+                        <h3 class="mb-3">Villas</h3>
+                        <i class="fas fa-warehouse"></i>
+                        <p class=" servicepragragh mb-4">
+                            Enjoy all the comfort in villas with traditionnal sumbanese architecture. Relax around the swimming pool or in a hammoc with sea view. Discover private villas & vacation rentals in Puerto Rico.<br />
+                        </p><br />
+
+                        @Html.ActionLink("Details", "Service", null, new { @class = "Apartments btnserviece btn btn-dark px-4 py-3" })
+
+                    </div>
+                </div>
+                <div class="col-md-4 mb-3 text-center ftco-animate servicediv">
+                    <div class="pricing p-4 py-5">
+                        <div class="icon mb-2"><span class="flaticon-skyline"></span></div>
+                        <h3 class="mb-3">Compounds</h3>
+                        <i class="fas fa-dungeon"></i>
+                        <p class=" servicepragragh mb-4">
+                            When you are choosing a residential compound for your family, you are not just buying a house but a whole way of life. PropertyFinder has compiled for you a list of the best compounds in Egypt.
+
+                        </p>
+                        <br />
+                        @Html.ActionLink("Details", "Service", null, new { @class = "Apartments btnserviece btn btn-dark px-4 py-3" })
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--/******************************************Testmonials********************************************************/-->
+    <!-- Section: Testimonials v.3 -->
+    <section class="clientsbody">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-center m-auto">
+                    <h2 class="Testimonials">Testimonials</h2>
+                    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                        <!-- Carousel indicators -->
+                        <ol class="carousel-indicators">
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                        </ol>
+                        <!-- Wrapper for carousel items -->
+                        <div class="carousel-inner">
+                            <div class="item carousel-item active">
+                                <div class="img-box">
+                                    <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(30).jpg" class="clientimg rounded-circle img-fluid" />
+
+                                </div>
+                                <p class="testimonial"> <i class="fas fa-quote-left"></i>AFRINA is one of the best general contractors we've worked with. The entire team tactfully delivered a project of exceptional quality while staying on schedule and under budget. We hope to work with Greiner again in the near future! <i class="fas fa-quote-left"></i></p>
+                                <p class="overview"><b>Anna Deynah</b>, Media Analyst</p>
+                            </div>
+                            <div class="item carousel-item">
+                                <div class="img-box">
+                                    <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(31).jpg" class="clientimg rounded-circle img-fluid" />
+
+                                </div>
+                                <p class="testimonial"> <i class="fas fa-quote-left"></i>Part of the challenge of going into a new market is committing to build a relationship with a General Contractor.  It's a leap of faith to trust them with building your vision on budget, on schedule, and with attention to quality. <i class="fas fa-quote-left"></i></p>
+                                <p class="overview"><b>Maria Kate</b>, Web Developer</p>
+                            </div>
+                            <div class="item carousel-item">
+                                <div class="img-box">
+                                    <img src="https://mdbootstrap.com/img/Photos/Avatars/img%20(3).jpg" class=" clientimg rounded-circle img-fluid" />
+
+                                </div>
+                                <p class="testimonial"> <i class="fas fa-quote-left"></i>AFRINA has exceeded our expectations, and we consider them one of our trusted partners in market.  Novel Coworking could not have been as successful in the region had it not been for their outstanding performance .<i class="fas fa-quote-left"></i></p>
+                                <p class="overview"><b>Michael Holz</b>, Seo Analyst</p>
+                            </div>
+                        </div>
+                        <!-- Carousel controls -->
+                        <a class="carousel-control  carousel-control-prev" id="left" href="#myCarousel" data-slide="prev">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+                        <a class="carousel-control  carousel-control-next" id="right" href="#myCarousel" data-slide="next">
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    @*/*******************************footer********************/*@
+
+
+
+
+
+    <script src="~/jquery-3.4.1.js"></script>
+    <script src="~/bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/Project-JS/index.js"></script>
+
+
+
+</body>
+</html>

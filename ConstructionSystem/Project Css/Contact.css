@@ -1,0 +1,183 @@
+﻿/*Contact sectiom*/
+.content-header {
+    font-family: 'Oleo Script', cursive;
+    color: #fcc500;
+    font-size: 45px;
+}
+.card-img {
+    margin:0%;
+    padding:0;
+}
+.container-fluid {
+    width: 100%;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+
+.card-img-overlay {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 0%;
+
+}
+
+.section-content {
+    text-align: center;
+}
+label {
+    margin-left: 7% !important;
+    transform: translateY(77%);
+}
+.inputName{
+    padding-right:80%
+}
+.inputmsg {
+    padding-right: 78%
+}
+#contact {
+    font-family: SimSun padding-top: 60px;
+    width: 100%;
+    width: 100vw;
+    height: 550px;
+    color: #080808;
+    background-color: snow !important;
+}
+
+.btn-dark {
+    border-radius: 15px;
+    color: burlywood;
+    background-color: black;
+    padding: 10px;
+}
+
+    .btn-dark:hover {
+        border-radius: 15px;
+        color: black;
+        background-image: linear-gradient(to right,#554a4a,burlywood);
+    }
+
+body {
+    background-color: snow !important;
+}
+
+.contact-section {
+    padding-top: 40px;
+}
+
+    .contact-section .col-md-6 {
+        width: 50%;
+    }
+
+.form-line {
+    border-right: 1px solid burlywood;
+}
+
+.form-group {
+    margin-top: 10px;
+}
+
+.content-header {
+    color: burlywood !important;
+}
+
+label {
+    font-size: 1.3em;
+    line-height: 1em;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+
+.form-control {
+    font-size: 1.3em;
+    color: #080808;
+    margin-bottom: 20px;
+}
+
+textarea.form-control {
+    height: 135px;
+    /* margin-top: px;*/
+}
+
+.submit {
+    font-size: 1.1em;
+    float: right;
+    width: 150px;
+}
+
+.mapiframe {
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+
+.iconstyle {
+    font-size: 28px;
+    color: burlywood;
+    transform: translateX(20px);
+}
+
+    .iconstyle:hover {
+        color: black;
+    }
+
+.login-block {
+    margin-top: 5%;
+}
+
+.form-control {
+    width: 85% !important;
+    margin-bottom: 9px !important;
+    margin-left: 7% !important;
+    margin-top: 3% !important;
+    border: 1px solid #100f0f !important;
+}
+
+.contactheader .text-primary {
+    color: burlywood !important;
+}
+
+.btn-block {
+    display: block;
+    width: 85% !important;
+    margin-left: 7% !important;
+    margin-bottom: 4% !important;
+    margin-top: 2% !important;
+}
+
+.contactheader {
+    margin-top: 3%;
+}
+
+.card-header {
+    background-color: black;
+    color: #ca9f7f !important;
+}
+
+.card-body {
+    background-color: rgb(17, 17, 17) !important;
+    color: #f6c5b3;
+}
+
+textcenter {
+    display: inline-block;
+}
+
+.bg-dark {
+    background-color: black;
+    color: burlywood;
+}
+
+.textcenter {
+    margin-bottom: 1%;
+    margin-left: 3%;
+}
+/*.container {
+    max-width:2000px;
+}*/
+
+

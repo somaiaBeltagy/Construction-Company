@@ -1,0 +1,182 @@
+﻿@model ConstructionSystem.Models.MyViewModels.DepartmentViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+
+@section AdminNav{
+    @{Html.RenderPartial("_AdminNav");}
+}
+
+@section styles{
+    <link href="~/Content/Css-department/fonts/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/Css-department/fonts/iconic/css/material-design-iconic-font.min.css" rel="stylesheet" />
+    <link href="~/Content/Css-department/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" rel="stylesheet" />
+    <!---------------------------------------------------------------------------------------------->
+    <link href="~/Content/Css-department/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Css-department/css/Deprt-forms.css" rel="stylesheet" />
+}
+
+
+<body>
+    <main>
+        <div class="container-fluid">
+            <div class="row">
+
+                <div class="col-lg-6 col-sm-6 col-xs-12 right"></div>
+
+                <div class="col-lg-6 col-sm-6 col-xs-12 left">
+                    <div class="row">
+                        <div class="col"></div>
+                        <div class="col-lg-10 col-sm-8">
+                            @using (Html.BeginForm())
+                            {
+                                @Html.AntiForgeryToken()
+
+                                <span class="login-form-title">
+                                    Add New Department
+                                </span>
+
+                                <div class="inp-div validate-input" data-validate="Name is required">
+                                    <span class="label-input100">Name</span>
+                                    <br />
+                                    @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "input100 form-control no-border", @placeholder = "Name..." } })
+                                    @*<input class="input100 form-control no-border " type="text" name="name" placeholder="First Name...">*@
+                                    <span class="focus-input100"></span>
+                                </div>
+                                <br />
+
+                                <div class="inp-div validate-input" data-validate="Name is required">
+                                    <span class="label-input100">Location</span>
+                                    <br />
+                                    @Html.EditorFor(model => model.Location, new { htmlAttributes = new { @class = "input100 form-control no-border", @type = "text", @placeholder = "Location..." } })
+                                    @*<input class="input100 form-control no-border " type="text" name="name" placeholder="Last Name...">*@
+                                    <span class="focus-input100"></span>
+                                </div>
+                                <br />
+
+
+                                <div class="inp-div validate-input stD" data-validate="Name is required">
+                                    <span class="label-input100">StartDate</span>
+                                    <br />
+                                    @Html.EditorFor(model => model.StartDate, new { htmlAttributes = new { @class = "input100 form-control no-border", @type = "date", @placeholder = "email.em@eg" } })
+                                    @*<input class="input100 form-control no-border " type="email" name="name" placeholder="email.em@eg">*@
+                                    <span class="focus-input100"></span>
+                                </div>
+                                <br />
+
+                                @*<div class="inp-div validate-input" data-validate="Name is required">
+                                    <span class="label-input100">Manager Name</span>
+                                    <br />*@
+                                    @*@Html.DropDownListFor(x => x.EmployeeId, Model.MyList, "<--Select-->", new { @class = "input100 form-control no-border", @placeholder = "Manager Name..." })*@
+                                    @*<input class="input100 form-control no-border " type="password" name="name" placeholder="Password...">*@
+                                    @*<span class="focus-input100"></span>
+                                </div>
+                                <br />*@
+
+                                <div class="form-group container-login100-form-btn wrap-login100-form-btn">
+                                    <div class="login100-form-bgbtn"></div>
+                                    <div class="col-md-offset-2 col-md-10">
+                                        <input type="submit" value="Create" class="btn btn-default login100-form-btn" />
+                                    </div>
+                                </div>
+
+
+                            }
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*<h2>Create</h2>
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>DepartmentViewModel</h4>
+            <hr />
+            @Html.ValidationSummary(true)
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Name, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Name,  new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Name)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Location, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Location,  new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Location)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.StartDate, new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.StartDate, new { htmlAttributes = new { @class = "form-control", @type = "date" } })
+                    @Html.ValidationMessageFor(model => model.StartDate)
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class = "control-label col-md-2">Manager Name</label>
+                <div class="col-md-10">
+                    @Html.DropDownListFor(x=>x.EmployeeId,Model.MyList, "<--Select-->", new { @class = "form-control" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }*@

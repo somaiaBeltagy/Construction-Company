@@ -1,0 +1,49 @@
+﻿@model ConstructionSystem.Models.Entities.Client
+
+@{
+    ViewBag.Title = "Details";
+}
+@section AdminNav{
+    @{Html.RenderPartial("_AdminNav");}
+}
+@section styles{
+    <link href="~/library/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/library/material-design-iconic-font.min.css" rel="stylesheet" />
+    <link href="~/library/icon-font.min.css" rel="stylesheet" />
+    <!---------------------------------------------------------------------------------------------->
+    <link href="~/library/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" src="~/css/favicon.ico" />
+    <link href="~/css/proj-det.css" rel="stylesheet" />
+}
+<div class="page-wrapper bg-red p-t-180 p-b-100 font-robo">
+    <div class="wrapper wrapper--w960">
+        <div class="card card-2">
+            <div class="card-heading " style="background-image: url('../../image/client1.jpg'); ">
+            </div>
+            <div class="card-body">
+                <div class="btn-container">
+                    <label class="action-btn font-weight-bold">
+                        @Model.FirstName @Model.LastName
+                    </label>
+                </div>
+                <div class="row content">
+
+                    <div class="col-lg-6 col-sm-6 col">
+                        <label class="col-lbl font-weight-bold">Email</label><br>
+                        <label class="col-lbl font-weight-bold">Phone</label><br>
+
+                    </div>
+
+                    <div class="col-lg-6 col-sm-6 col">
+                        <p class="col-p">@Model.Email</p><br>
+                        <p class="col-p">@Model.Phone</p><br>
+
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,125 @@
+﻿/*.headersection {
+    top: 0;
+    z-index: 9999999999999999999999;
+    position: fixed;
+    left: 0 !important;
+    right: 0 !important;
+    background-color: #534d4d;
+    transform: translateX(700px);
+    font-family:'Times New Roman', Times, serif;
+}*/
+body {
+    background-color: snow;
+}
+
+* {
+    max-width: 100%;
+}
+
+.homenav {
+    top: 0;
+    z-index: 99999;
+    position: fixed;
+    left: 0 !important;
+    right: 0 !important;
+    background-color: #534d4d;
+    transform: translateX(700px);
+    color:burlywood;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(248, 222, 164, 0.5) !important;
+}
+    /*#navbarSupportedContent .navbar-nav .nav-item {
+    margin-right: 5px;
+}*/
+
+/*.nav-link {
+    color: burlywood !important;
+}*/
+
+.default-logo {
+    transform: translateY(0);
+}
+
+.navtransperant {
+    transform: translateY(-10px);
+}
+
+
+
+#navbarNavDropdown .navbar-nav .navbar-brand {
+    transform: translateX(450px) !important;
+    color: rgba(248, 222, 164, 0.5) !important;
+    padding-top: 8px;
+    padding-bottom: 0;
+    font-size: 1.0rem !important;
+    height: 8px;
+}
+
+    .navbar-brand:hover {
+        text-decoration: underline;
+    }
+
+.default-logo {
+    margin-right: 150px;
+}
+
+/********************Footer***********************/
+.container{
+    background-color:transparent !important;
+
+}
+.text-uppercase {
+    font-weight: 800;
+}
+a {
+    color: burlywood !important;
+}
+.page-footer {
+    background-image: url('../Images/5708c22fce4ad_thumb900.jpg');
+    background-size: cover;
+    height: 20%;
+}
+  
+    .starting-logo {
+        margin-left: 25px;
+    }
+
+.list-inline-item {
+    margin-right: 55%;
+    transform: translateY(-70px);
+    color: black;
+    margin-bottom:20%;
+}
+
+.icon:hover {
+    color: #534d4d;
+}
+
+.AFRINA {
+    color: burlywood !important;
+}
+
+    .AFRINA:hover {
+        color: #534d4d;
+    }
+
+.footerlist {
+    color: black;
+    font-weight:600;
+}
+
+    .footerlist:hover {
+        color:black !important;
+    }
+
+
+.stylish-color-dark {
+    background-color: #8f7b46
+}
+.footer-copyright {
+    font-weight: 800;
+    transform: translateY(-269px)
+}

@@ -1,0 +1,436 @@
+﻿
+
+@section styles{
+
+
+
+
+    <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700" rel="stylesheet">
+
+    <link rel="stylesheet" href="~/css-ser/open-iconic-bootstrap.min.css">
+
+    <link href="~/css-ser/animate.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css-ser/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/css-ser/owl.theme.default.min.css">
+    <link rel="stylesheet" href="~/css-ser/magnific-popup.css">
+
+    <link rel="stylesheet" href="~/css-ser/aos.css">
+
+    <link rel="stylesheet" href="~/css-ser/ionicons.min.css">
+
+    <link rel="stylesheet" href="~/css-ser/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="~/css-ser/jquery.timepicker.css">
+
+
+    <link rel="stylesheet" href="~/css-ser/flaticon.css">
+    <link rel="stylesheet" href="~/css-ser/icomoon.css">
+    <link rel="stylesheet" href="~/css-ser/style.css">
+
+
+
+
+    @*/*********************bootstrap css*********************************/*@
+
+    <link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    @*/*********************bootstrap JS*********************************/
+
+        <script src="~/bootstrap/js/bootstrap.min.js"></script>*@
+
+    @*/*********************Fontawesome Css*********************************/*@
+    <link href="~/fontawesome-free-5.11.2-web/css/all.css" rel="stylesheet" />
+
+    @*/*********************Fontawesome JS*********************************/*@
+
+    @*/*********************css*********************************/*@
+
+    <link href="~/Project Css/service.css" rel="stylesheet" />
+
+    @*<link rel="stylesheet" href="bootstrap-4.1.3/dist/css/bootstrap.min.css">*@
+
+
+
+}
+    <script src="~/fontawesome-free-5.11.2-web/js/all.min.js"></script>
+
+
+@*/***********************js*********************/*@
+
+<script src="~/Project-JS/service.js"></script>
+@*/***********************Jquery*********************/*@
+
+<script src="~/jquery-3.4.1.js"></script>
+@*/***********************Bootstrap JS*********************/*@
+
+
+<script src="~/bootstrap/js/bootstrap.min.js"></script>
+
+
+<script src="~/jss/jquery.min.js"></script>
+
+
+<script src="~/jss/jquery-migrate-3.0.1.min.js"></script>
+<script src="~/jss/popper.min.js"></script>
+<script src="~/jss/bootstrap.min.js"></script>
+<script src="~/jss/jquery.easing.1.3.js"></script>
+<script src="~/jss/jquery.waypoints.min.js"></script>
+<script src="~/jss/jquery.stellar.min.js"></script>
+<script src="~/jss/owl.carousel.min.js"></script>
+<script src="~/jss/jquery.magnific-popup.min.js"></script>
+<script src="~/jss/aos.js"></script>
+<script src="~/jss/jquery.animateNumber.min.js"></script>
+<script src="~/jss/scrollax.min.js"></script>
+<script src="~/jss/bootstrap-datepicker.js"></script>
+<script src="~/jss/jquery.timepicker.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+<script src="~/jss/google-map.js"></script>
+<script src="~/jss/main.js"></script>
+<body>
+    @section UserNav{
+        @{ Html.RenderPartial("_UserNav");}
+    }
+    <img src="~/images/banner_home4.jpg" class="imagebanner" />
+    @*<img src="~/images/3246.jpg"  />*@
+    <br />
+    <br />
+    <section class="ftco-services mt-n4">
+        <div class="container">
+            <div class="row no-gutters">
+                <div class="col-md-5 ftco-animate py-5 nav-link-wrap nav-dark aside-stretch">
+                    <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+                        <h3 class="ml-3">Services</h3>
+                        <a class="nav-link px-4 active font-weight-bold" id="v-pills-master-tab" data-toggle="pill" href="#v-pills-master" role="tab" aria-controls="v-pills-master" aria-selected="true"> Apartment</a>
+                        <br>
+                        <a class="nav-link px-4 font-weight-bold" id="v-pills-buffet-tab" data-toggle="pill" href="#v-pills-buffet" role="tab" aria-controls="v-pills-buffet" aria-selected="false"> Villa </a>
+                        <br>
+                        <a class="nav-link px-4 font-weight-bold" id="v-pills-fitness-tab" data-toggle="pill" href="#v-pills-fitness" role="tab" aria-controls="v-pills-fitness" aria-selected="false"> Compound</a>
+
+
+                    </div>
+                </div>
+                <div class="col-md-7 ftco-animate p-4 p-md-5 d-flex align-items-center">
+
+                    <div class="tab-content pl-md-5" id="v-pills-tabContent">
+
+                        <div class="tab-pane fade show active py-5" id="v-pills-master" role="tabpanel" aria-labelledby="v-pills-master-tab">
+                            <img class="opacity" style="width: 280px;height: 200px;" src="~/images/2.jpg">
+                            <h2 class="mb-4 page font-weight-bold">Apartment</h2>
+                            <p class="pragraph">The units come with tiled floors and feature a fully equipped kitchen with a dishwasher, a dining area, a flat-screen TV with satellite channels, and a private bathroom with shower and a hairdryer and available area (100m ,200m ,250m).</p>
+                            <div class="col-md-4">
+                                <p> <button type="button" class="btn   btn-dark px-4 py-3" data-toggle="modal" data-target="#exampleModal1"> conch</button></p>
+                                <p> <button type="button" class="btn   btn-dark px-4 py-3" data-toggle="modal" data-target="#exampleModal2"> Semi Finished</button></p>
+                                <p>  <button type="button" class="btn   btn-dark px-4 py-3" data-toggle="modal" data-target="#exampleModal3"> Super Lux</button> </p>
+                            </div>
+                        </div>
+
+                        <div class="tab-pane fade py-5" id="v-pills-buffet" role="tabpanel" aria-labelledby="v-pills-buffet-tab">
+                            <img class="opacity" style="width: 280px;height: 200px;" src="~/images/6ef36f7a-7c54-4713-b8e2-252f9800959a.jpg" alt="image">
+                            <h2 class="mb-4 page font-weight-bold">Villa</h2>
+                            <p class="pragraph">Enjoy all the comfort in villas with traditionnal sumbanese architecture. Relax around the swimming pool or in a hammoc with sea view. Discover private villas & vacation rentals in Puerto Rico and available area (400m ,450m ,600m).</p>
+                            <p> <button type="button" class="btn   btn-dark px-4 py-3" data-toggle="modal" data-target="#exampleModal4">conch</button></p>
+                            <p> <button type="button" class="btn   btn-dark px-4 py-3" data-toggle="modal" data-target="#exampleModal5">Semi Finished</button></p>
+                            <p>  <button type="button" class="btn   btn-dark px-4 py-3" data-toggle="modal" data-target="#exampleModal6">Super Lux</button> </p>
+
+                        </div>
+
+                        <div class="tab-pane fade py-5" id="v-pills-fitness" role="tabpanel" aria-labelledby="v-pills-fitness-tab">
+                            <img class="opacity" style="width: 280px;height: 200px;" src="~/images/1.jpg">
+
+                            <h2 class="mb-4 page font-weight-bold">Compound</h2>
+                            <p class="pragraph">When you are choosing a residential compound for your family, you are not just buying a house but a whole way of life. PropertyFinder has compiled for you a list of the best compounds in Egypt so you can choose the life you are dreaming of and available area (150m ,200m ,250m).</p>
+                            <p> <button type="button" class="btn   btn-dark px-4 py-3" data-toggle="modal" data-target="#exampleModal7">  conch</button></p>
+                            <p> <button type="button" class="btn   btn-dark px-4 py-3" data-toggle="modal" data-target="#exampleModal8"> Semi Finished</button></p>
+                            <p>  <button type="button" class="btn   btn-dark px-4 py-3" data-toggle="modal" data-target="#exampleModal9"> Super Lux</button> </p>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <section class="ftco-section mt-sm-n4">
+        <div class="container">
+            <div class="row justify-content-center mb-5 pb-5">
+                <div class="col-md-7 text-center heading-section ftco-animate">
+                    <h2 class="mb-4 font-weight-bold">How We Work</h2>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-4 ftco-animate">
+                    <div class="services">
+                        <h3 class="font-weight-bold"><span class="color font-weight-bold">01.</span> Analyzing</h3>
+                        <p class="pragraph">
+                            Analysis of rates for building works is the process of separation of works into components/elements of work and pricing them.
+
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-4 ftco-animate">
+                    <div class="services">
+                        <h3 class="font-weight-bold"><span class="color font-weight-bold">02.</span> Planning</h3>
+                        <p class="pragraph">Construction project planning is the function in which project and construction managers and their key staff members prepares the master plan.</p>
+                    </div>
+                </div>
+                <div class="col-md-4 ftco-animate">
+                    <div class="services">
+                        <h3 class="font-weight-bold"><span class="color font-weight-bold">03.</span> Building</h3>
+                        <p class="pragraph">
+                            Build Construction is a construction management company committed to providing clients with quality workmanship, clear timelines and competitive Pricing.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal1" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title font-weight-bold" id="exampleModalLabel">Apartment conch</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div>
+                        <img class="opacity" style="width: 280px;height: 200px;" src="~/images/es9.jpg" alt="image">
+                        <h2 class="mb-4 page font-weight-bold">Apartment</h2>
+                        <p class="pragraph">The prices of the finishing of the housing units vary from one company to another according to the decorations and materials used for finishing, although the prices range from 1200 pounds to 2000 pounds per meter .. The following report shows the cost of finishing an apartment on an area of 100 meters.</p>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title font-weight-bold" id="exampleModalLabel">Apartment Semi Finished</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+
+                    <div>
+                        <img class="opacity" style="width: 280px;height: 200px;" src="~/images/es7.jpg" alt="image">
+                        <h2 class="mb-4 page font-weight-bold">Apartment</h2>
+                        <p class="pragraph">It means that the apartment has (electricity founding and finishing - electricity pipes and wire and electrical boxes and electric disarray - founding and finishing - carpentry or alumetal windows and doors - paints - ceramic floors) although the prices range from 1900 pounds to 3000 pounds per meter.</p>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal3" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title font-weight-bold" id="exampleModalLabel">Apartment Super Lux</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <div>
+                        <img class="opacity" style="width: 280px;height: 200px;" src="~/images/es3.jpg" alt="image">
+                        <h2 class="mb-4 page font-weight-bold">Apartment</h2>
+                        <p class="pragraph">It differs from the semi Finished in that the electricity by the basic nutrition and additional points electricity imported as well as plumbing and there is insulator for floors and ceilings and be ceramic sorted first or porcelain, doors and windows of Swedish or Alumetal wood, crews and mixers imported although the prices range from 3000 pounds to 4000 pounds per meter.</p>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal4" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title font-weight-bold" id="exampleModalLabel">Villa conch</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+
+                    <img class="opacity" style="width: 280px;height: 200px;" src="~/images/es4.jpg" alt="image">
+                    <h2 class="mb-4 page font-weight-bold">Villa</h2>
+                    <p class="pragraph"> The prices of the finishing of the housing units vary from one company to another according to the decorations and materials used for finishing, although the prices range from 4000 pounds to 5000 pounds per meter .. The following report shows the cost of finishing an villa on an area of 500 meters.</p>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal5" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title font-weight-bold" id="exampleModalLabel">Villa semi Finished</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+
+                    <img class="opacity" style="width: 280px;height: 200px;" src="~/images/es5.jpg" alt="image">
+                    <h2 class="mb-4 page font-weight-bold">Villa</h2>
+                    <p class="pragraph">It means that the villa has (electricity founding and finishing - electricity pipes and wire and electrical boxes and electric disarray - founding and finishing - carpentry or alumetal windows and doors - paints - ceramic floors) although the prices range from 5000 pounds to 6000 pounds per meter.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModal6" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title font-weight-bold" id="exampleModalLabel">Villa Suber Lux</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+
+                    <div>
+                        <img class="opacity" style="width: 280px;height: 200px;" src="~/images/6ef36f7a-7c54-4713-b8e2-252f9800959a.jpg" alt="image">
+                        <h2 class="mb-4 page font-weight-bold">Villa</h2>
+                        <p class="pragraph">It differs from the semi Finished in that the electricity by the basic nutrition and additional points electricity imported as well as plumbing and there is insulator for floors and ceilings and be ceramic sorted first or porcelain, doors and windows of Swedish or Alumetal wood, crews and mixers imported although the prices range from 6000 pounds to 7000 pounds per meter.</p>
+
+
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="modal fade" id="exampleModal7" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title font-weight-bold" id="exampleModalLabel">compound conch</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+
+                    <div>
+                        <img  style="width: 280px;height: 200px;" src="~/images/es9.jpg">
+
+                        <h2 class="mb-4 page font-weight-bold">Compound</h2>
+                        <p class="pragraph">The prices of the finishing of the housing units vary from one company to another according to the decorations and materials used for finishing, although the prices range from 1600 pounds to 2400 pounds per meter .. The following report shows the cost of finishing an Apartment on an area of 500 meters.</p>
+                    </div>
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="modal fade" id="exampleModal8" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title font-weight-bold" id="exampleModalLabel">compound semi Finished</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+
+                    <div>
+                        <img  style="width: 280px;height: 200px;" src="~/images/es2.jpg">
+
+                        <h2 class="mb-4 page font-weight-bold">Compound</h2>
+                        <p class="pragraph">It means that the apartment has (electricity founding and finishing - electricity pipes and wire and electrical boxes and electric disarray - founding and finishing - carpentry or alumetal windows and doors - paints - ceramic floors) although the prices range from 2400 pounds to 3500 pounds per meter.</p>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="exampleModal9" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title font-weight-bold" id="exampleModalLabel">Compound Suber Lux</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+
+                    <div>
+                        <img style="width: 280px;height: 200px;" src="~/images/es10.jpg">
+
+                        <h2 class="mb-4 page font-weight-bold">Compound</h2>
+                        <p class="pragraph">It differs from the semi Finished in that the electricity by the basic nutrition and additional points electricity imported as well as plumbing and there is insulator for floors and ceilings and be ceramic sorted first or porcelain, doors and windows of Swedish or Alumetal wood, crews and mixers imported although the prices range from 3500 pounds to 5000 pounds per meter.</p>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>

@@ -1,0 +1,173 @@
+﻿@model ConstructionSystem.Models.MyViewModels.DepartmentViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+@section styles{
+    <link href="~/Content/Css-department/fonts/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/Content/Css-department/fonts/iconic/css/material-design-iconic-font.min.css" rel="stylesheet" />
+    <link href="~/Content/Css-department/fonts/Linearicons-Free-v1.0.0/icon-font.min.css" rel="stylesheet" />
+    <!---------------------------------------------------------------------------------------------->
+    <link href="~/Content/Css-department/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/Css-department/css/department-det.css" rel="stylesheet" />
+}
+@section AdminNav{
+    @{Html.RenderPartial("_AdminNav");}
+}
+
+<body>
+    <div class="page-wrapper bg-red p-t-180 p-b-100 font-robo">
+        <div class="wrapper wrapper--w960">
+            <div class="card card-2">
+                <div class="card-heading"></div>
+                <div class="card-body">
+                    <div class="btn-container">
+                        <button class="action-btn">Department Details</button>
+                    </div>
+
+
+                    <div class="row content">
+
+                        <div class="col-lg-12 col-sm-6 col">
+                            <div class="row">
+                                <div class="col-lg-6 col-sm-6 col">
+                                    <label class="col-lbl font-weight-bold">Name</label>
+                                </div>
+                                <div class="col-lg-6 col-sm-6 col">
+                                    <p class="col-p">@Html.DisplayFor(model => model.Name)</p>
+                                </div>
+
+                                @*<div class="col-lg-6 col-sm-6 col">
+                                        <label class="col-lbl">Number of Employees</label><br>
+                                    </div>
+                                    <div class="col-lg-6 col-sm-6 col">
+                                        <p class="col-p">@Html.DisplayFor(model => model.NumberOfEmps)</p>
+                                    </div>*@
+
+
+                                <div class="col-lg-6 col-sm-6 col">
+                                    <label class="col-lbl font-weight-bold">Start Date</label><br>
+                                </div>
+                                <div class="col-lg-6 col-sm-6 col">
+                                    <p class="col-p">@Html.DisplayFor(model => model.StartDate)</p>
+                                </div>
+
+                                <div class="col-lg-6 col-sm-6 col">
+                                    <label class="col-lbl font-weight-bold">Location</label><br>
+                                </div>
+                                <div class="col-lg-6 col-sm-6 col">
+                                    <p class="col-p">@Html.DisplayFor(model => model.Location)</p>
+                                </div>
+
+                                <div class="col-lg-6 col-sm-6 col">
+                                    <label class="col-lbl font-weight-bold">Manager Name</label><br>
+                                </div>
+                                <div class="col-lg-6 col-sm-6 col">
+                                    <p class="col-p">@Html.DisplayFor(model => model.FirstName) @Html.DisplayFor(x => x.LastName)</p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Jquery JS-->
+    <script src="~/Content/Css-department/js/jquery-3.4.1.js"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <!-- Vendor JS-->
+    <script src="vendor/select2/select2.min.js"></script>
+    <script src="vendor/datepicker/moment.min.js"></script>
+    <script src="vendor/datepicker/daterangepicker.js"></script>
+
+    <!-- Main JS-->
+    <script src="js/global.js"></script>
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*<h2>Details</h2>
+
+    <div>
+        <h4>DepartmentViewModel</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                ID
+            </dt>
+            <dd>
+                @Html.DisplayFor(x => x.DepartmentID)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+
+            <dt>
+                @Html.DisplayNameFor(model => model.NumberOfEmps)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.NumberOfEmps)
+            </dd>
+
+
+            <dt>
+                @Html.DisplayNameFor(model => model.StartDate)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.StartDate)
+            </dd>
+
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Location)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Location)
+            </dd>
+
+
+            <dt>
+                Manager Name
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.FirstName) @Html.DisplayFor(x => x.LastName)
+            </dd>
+
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Back to List", "Index")
+    </p>*@

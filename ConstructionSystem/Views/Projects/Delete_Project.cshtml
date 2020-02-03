@@ -1,0 +1,73 @@
+﻿@model ConstructionSystem.Models.Entities.Project
+
+@{
+    ViewBag.Title = "Delete_Project";
+}
+@section AdminNav{
+    @{Html.RenderPartial("_AdminNav");}
+}
+@section styles{
+    <link href="~/library/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="~/library/material-design-iconic-font.min.css" rel="stylesheet" />
+    <link href="~/library/icon-font.min.css" rel="stylesheet" />
+    <!---------------------------------------------------------------------------------------------->
+    <link href="~/library/bootstrap.min.css" rel="stylesheet" />
+    <link rel="icon" type="image/png" src="~/css/favicon.ico" />
+    <link href="~/css/proj-det.css" rel="stylesheet" />
+    <link href="~/css/project_css.css" rel="stylesheet" />
+}
+<div class="page-wrapper bg-red p-t-180 p-b-100 font-robo">
+    <div class="wrapper wrapper--w960">
+        <div class="card card-2">
+            <div class="card-heading " style="        background-image: url('../../image/image1.jpg');">
+            </div>
+            <div class="card-body">
+                <div class="btn-container">
+                    <label class="action-btn">
+                        @Model.Name
+                    </label>
+                </div>
+                <div class="row content">
+
+                    <div class="col-lg-6 col-sm-6 col">
+                        <label class="col-lbl">Location</label><br>
+                        <label class="col-lbl">Description</label><br>
+                        <label class="col-lbl">Start Date</label><br>
+                        <label class="col-lbl">Expected Period</label><br>
+
+                    </div>
+
+                    <div class="col-lg-6 col-sm-6 col">
+                        <p class="col-p">@Model.Location</p><br>
+                        <p class="col-p">@Model.Description</p><br>
+                        <p class="col-p">@Model.StartDate</p><br>
+                        <p class="col-p">@Model.ExpectedPeriod</p><br>
+
+                    </div>
+
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <div class="form-actions no-color">
+                            <input type="submit" value="Delete" class="btn btn-dark" />
+                            @Html.ActionLink("Back", "Project_Details", null, new { @class = "btn btn-dark" })
+                        </div>
+                    }
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+@section scriptes{
+    <!-- Jquery JS-->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <!-- Vendor JS-->
+    <script src="vendor/select2/select2.min.js"></script>
+    <script src="vendor/datepicker/moment.min.js"></script>
+    <script src="vendor/datepicker/daterangepicker.js"></script>
+
+    <!-- Main JS-->
+    <script src="js/global.js"></script>
+}

@@ -1,0 +1,1144 @@
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\ConstructionSystem.dll.config
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\ConstructionSystem.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\ConstructionSystem.pdb
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csc.exe
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csc.exe.config
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csc.rsp
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csi.exe
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csi.exe.config
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\csi.rsp
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.AppContext.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Collections.Immutable.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Console.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.IO.Compression.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.IO.FileSystem.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.IO.Pipes.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Reflection.Metadata.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.AccessControl.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Claims.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.ValueTuple.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Xml.XPath.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\vbc.exe
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\vbc.exe.config
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\vbc.rsp
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\VBCSCompiler.exe
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\roslyn\VBCSCompiler.exe.config
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Antlr3.Runtime.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\EntityFramework.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\EntityFramework.SqlServer.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Google.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Newtonsoft.Json.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Owin.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Net.Http.Formatting.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Helpers.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Http.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Http.WebHost.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Mvc.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Optimization.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Razor.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.Deployment.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.Razor.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\WebGrease.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Helpers.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Mvc.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Optimization.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Razor.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.Deployment.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.WebPages.Razor.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Newtonsoft.Json.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Antlr3.Runtime.pdb
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Net.Http.Formatting.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Http.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\System.Web.Http.WebHost.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\EntityFramework.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\EntityFramework.SqlServer.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Google.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csprojAssemblyReference.cache
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CoreCompileInputs.cache
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CopyComplete
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.dll
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.pdb
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.GenerateResource.cache
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentEmployeesTBLS.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateManagerTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeProjectTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentLocationTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddColumnsInUserTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddAgeColumn.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.EditEmailColumnInEmployeeTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateServiceTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectServiceTBL.resources
+E:\ITI - Intake 2 Full Stack\Progect\ConstructionSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientProjectTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\ConstructionSystem.dll.config
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\ConstructionSystem.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\ConstructionSystem.pdb
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\csc.exe
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\csc.exe.config
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\csc.rsp
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\csi.exe
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\csi.exe.config
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\csi.rsp
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Console.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Security.Claims.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\vbc.exe
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\vbc.exe.config
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\vbc.rsp
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Antlr3.Runtime.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\EntityFramework.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Newtonsoft.Json.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Owin.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Helpers.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Http.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Mvc.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Optimization.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Razor.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.WebPages.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\WebGrease.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Helpers.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Mvc.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Optimization.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Razor.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.WebPages.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Newtonsoft.Json.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Http.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\EntityFramework.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.csprojAssemblyReference.cache
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentEmployeesTBLS.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateManagerTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeProjectTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentLocationTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddColumnsInUserTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddAgeColumn.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.EditEmailColumnInEmployeeTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateServiceTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectServiceTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientProjectTBL.resources
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.GenerateResource.cache
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CopyComplete
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.dll
+C:\Users\Eng-Somaia\Desktop\ConstructionSystem\lastDB\ConstructionSystem\obj\Debug\ConstructionSystem.pdb
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\ConstructionSystem.dll.config
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\ConstructionSystem.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\ConstructionSystem.pdb
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\csc.exe
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\csc.exe.config
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\csc.rsp
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\csi.exe
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\csi.exe.config
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\csi.rsp
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.AppContext.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Console.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.IO.Pipes.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Security.Claims.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\vbc.exe
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\vbc.exe.config
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\vbc.rsp
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Antlr3.Runtime.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\EntityFramework.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Newtonsoft.Json.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Owin.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Helpers.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Http.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Mvc.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Optimization.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Razor.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.WebPages.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\WebGrease.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Helpers.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Mvc.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Optimization.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Razor.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.WebPages.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Newtonsoft.Json.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Antlr3.Runtime.pdb
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Http.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\EntityFramework.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.csprojAssemblyReference.cache
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentEmployeesTBLS.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateManagerTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeProjectTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentLocationTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddColumnsInUserTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddAgeColumn.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.EditEmailColumnInEmployeeTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateServiceTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectServiceTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientProjectTBL.resources
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.GenerateResource.cache
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CoreCompileInputs.cache
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CopyComplete
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.dll
+C:\Users\laptop market\Desktop\ITI-Project\ayhaga\ConstructionSystem\obj\Debug\ConstructionSystem.pdb
+F:\abdo\ConstructionSystem\bin\ConstructionSystem.dll.config
+F:\abdo\ConstructionSystem\bin\ConstructionSystem.dll
+F:\abdo\ConstructionSystem\bin\ConstructionSystem.pdb
+F:\abdo\ConstructionSystem\bin\roslyn\csc.exe
+F:\abdo\ConstructionSystem\bin\roslyn\csc.exe.config
+F:\abdo\ConstructionSystem\bin\roslyn\csc.rsp
+F:\abdo\ConstructionSystem\bin\roslyn\csi.exe
+F:\abdo\ConstructionSystem\bin\roslyn\csi.exe.config
+F:\abdo\ConstructionSystem\bin\roslyn\csi.rsp
+F:\abdo\ConstructionSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\abdo\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\abdo\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\abdo\ConstructionSystem\bin\roslyn\Microsoft.Managed.Core.targets
+F:\abdo\ConstructionSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\abdo\ConstructionSystem\bin\roslyn\System.AppContext.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Collections.Immutable.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Console.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.IO.Compression.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.IO.FileSystem.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.IO.Pipes.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Reflection.Metadata.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Security.AccessControl.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Security.Claims.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Security.Principal.Windows.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.ValueTuple.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Xml.XmlDocument.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Xml.XPath.dll
+F:\abdo\ConstructionSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\abdo\ConstructionSystem\bin\roslyn\vbc.exe
+F:\abdo\ConstructionSystem\bin\roslyn\vbc.exe.config
+F:\abdo\ConstructionSystem\bin\roslyn\vbc.rsp
+F:\abdo\ConstructionSystem\bin\roslyn\VBCSCompiler.exe
+F:\abdo\ConstructionSystem\bin\roslyn\VBCSCompiler.exe.config
+F:\abdo\ConstructionSystem\bin\Antlr3.Runtime.dll
+F:\abdo\ConstructionSystem\bin\EntityFramework.dll
+F:\abdo\ConstructionSystem\bin\EntityFramework.SqlServer.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Google.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.dll
+F:\abdo\ConstructionSystem\bin\Microsoft.Web.Infrastructure.dll
+F:\abdo\ConstructionSystem\bin\Newtonsoft.Json.dll
+F:\abdo\ConstructionSystem\bin\Owin.dll
+F:\abdo\ConstructionSystem\bin\System.Net.Http.Formatting.dll
+F:\abdo\ConstructionSystem\bin\System.Web.Helpers.dll
+F:\abdo\ConstructionSystem\bin\System.Web.Http.dll
+F:\abdo\ConstructionSystem\bin\System.Web.Http.WebHost.dll
+F:\abdo\ConstructionSystem\bin\System.Web.Mvc.dll
+F:\abdo\ConstructionSystem\bin\System.Web.Optimization.dll
+F:\abdo\ConstructionSystem\bin\System.Web.Razor.dll
+F:\abdo\ConstructionSystem\bin\System.Web.WebPages.Deployment.dll
+F:\abdo\ConstructionSystem\bin\System.Web.WebPages.dll
+F:\abdo\ConstructionSystem\bin\System.Web.WebPages.Razor.dll
+F:\abdo\ConstructionSystem\bin\WebGrease.dll
+F:\abdo\ConstructionSystem\bin\System.Web.Helpers.xml
+F:\abdo\ConstructionSystem\bin\System.Web.Mvc.xml
+F:\abdo\ConstructionSystem\bin\System.Web.Optimization.xml
+F:\abdo\ConstructionSystem\bin\System.Web.Razor.xml
+F:\abdo\ConstructionSystem\bin\System.Web.WebPages.xml
+F:\abdo\ConstructionSystem\bin\System.Web.WebPages.Deployment.xml
+F:\abdo\ConstructionSystem\bin\System.Web.WebPages.Razor.xml
+F:\abdo\ConstructionSystem\bin\Newtonsoft.Json.xml
+F:\abdo\ConstructionSystem\bin\Antlr3.Runtime.pdb
+F:\abdo\ConstructionSystem\bin\System.Net.Http.Formatting.xml
+F:\abdo\ConstructionSystem\bin\System.Web.Http.xml
+F:\abdo\ConstructionSystem\bin\System.Web.Http.WebHost.xml
+F:\abdo\ConstructionSystem\bin\EntityFramework.xml
+F:\abdo\ConstructionSystem\bin\EntityFramework.SqlServer.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Google.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.xml
+F:\abdo\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csprojAssemblyReference.cache
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentEmployeesTBLS.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateManagerTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeProjectTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentLocationTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddColumnsInUserTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddAgeColumn.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.EditEmailColumnInEmployeeTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateServiceTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectServiceTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientProjectTBL.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.GenerateResource.cache
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CoreCompileInputs.cache
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CopyComplete
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.dll
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.pdb
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\ConstructionSystem.dll.config
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\ConstructionSystem.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\ConstructionSystem.pdb
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\csc.exe
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\csc.exe.config
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\csc.rsp
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\csi.exe
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\csi.exe.config
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\csi.rsp
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.AppContext.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Console.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.IO.Pipes.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Security.Claims.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\vbc.exe
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\vbc.exe.config
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\vbc.rsp
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Antlr3.Runtime.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\EntityFramework.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Newtonsoft.Json.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Owin.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Helpers.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Http.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Mvc.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Optimization.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Razor.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.WebPages.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\WebGrease.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Helpers.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Mvc.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Optimization.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Razor.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.WebPages.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Newtonsoft.Json.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Antlr3.Runtime.pdb
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Http.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\EntityFramework.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csprojAssemblyReference.cache
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentEmployeesTBLS.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateManagerTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeProjectTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentLocationTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddColumnsInUserTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddAgeColumn.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.EditEmailColumnInEmployeeTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateServiceTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectServiceTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientProjectTBL.resources
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.GenerateResource.cache
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CoreCompileInputs.cache
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CopyComplete
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.dll
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.pdb
+C:\Users\laptop market\Desktop\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.test55.resources
+F:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.test55.resources
+H:\abdo\ConstructionSystem\bin\ConstructionSystem.dll.config
+H:\abdo\ConstructionSystem\bin\ConstructionSystem.dll
+H:\abdo\ConstructionSystem\bin\ConstructionSystem.pdb
+H:\abdo\ConstructionSystem\bin\roslyn\csc.exe
+H:\abdo\ConstructionSystem\bin\roslyn\csc.exe.config
+H:\abdo\ConstructionSystem\bin\roslyn\csc.rsp
+H:\abdo\ConstructionSystem\bin\roslyn\csi.exe
+H:\abdo\ConstructionSystem\bin\roslyn\csi.exe.config
+H:\abdo\ConstructionSystem\bin\roslyn\csi.rsp
+H:\abdo\ConstructionSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\abdo\ConstructionSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\abdo\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\abdo\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\abdo\ConstructionSystem\bin\roslyn\Microsoft.Managed.Core.targets
+H:\abdo\ConstructionSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\abdo\ConstructionSystem\bin\roslyn\System.AppContext.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Collections.Immutable.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Console.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.IO.Compression.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.IO.FileSystem.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.IO.Pipes.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Reflection.Metadata.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Security.AccessControl.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Security.Claims.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Security.Principal.Windows.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.ValueTuple.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Xml.XmlDocument.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Xml.XPath.dll
+H:\abdo\ConstructionSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\abdo\ConstructionSystem\bin\roslyn\vbc.exe
+H:\abdo\ConstructionSystem\bin\roslyn\vbc.exe.config
+H:\abdo\ConstructionSystem\bin\roslyn\vbc.rsp
+H:\abdo\ConstructionSystem\bin\roslyn\VBCSCompiler.exe
+H:\abdo\ConstructionSystem\bin\roslyn\VBCSCompiler.exe.config
+H:\abdo\ConstructionSystem\bin\Antlr3.Runtime.dll
+H:\abdo\ConstructionSystem\bin\EntityFramework.dll
+H:\abdo\ConstructionSystem\bin\EntityFramework.SqlServer.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Google.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.dll
+H:\abdo\ConstructionSystem\bin\Microsoft.Web.Infrastructure.dll
+H:\abdo\ConstructionSystem\bin\Newtonsoft.Json.dll
+H:\abdo\ConstructionSystem\bin\Owin.dll
+H:\abdo\ConstructionSystem\bin\System.Net.Http.Formatting.dll
+H:\abdo\ConstructionSystem\bin\System.Web.Helpers.dll
+H:\abdo\ConstructionSystem\bin\System.Web.Http.dll
+H:\abdo\ConstructionSystem\bin\System.Web.Http.WebHost.dll
+H:\abdo\ConstructionSystem\bin\System.Web.Mvc.dll
+H:\abdo\ConstructionSystem\bin\System.Web.Optimization.dll
+H:\abdo\ConstructionSystem\bin\System.Web.Razor.dll
+H:\abdo\ConstructionSystem\bin\System.Web.WebPages.Deployment.dll
+H:\abdo\ConstructionSystem\bin\System.Web.WebPages.dll
+H:\abdo\ConstructionSystem\bin\System.Web.WebPages.Razor.dll
+H:\abdo\ConstructionSystem\bin\WebGrease.dll
+H:\abdo\ConstructionSystem\bin\System.Web.Helpers.xml
+H:\abdo\ConstructionSystem\bin\System.Web.Mvc.xml
+H:\abdo\ConstructionSystem\bin\System.Web.Optimization.xml
+H:\abdo\ConstructionSystem\bin\System.Web.Razor.xml
+H:\abdo\ConstructionSystem\bin\System.Web.WebPages.xml
+H:\abdo\ConstructionSystem\bin\System.Web.WebPages.Deployment.xml
+H:\abdo\ConstructionSystem\bin\System.Web.WebPages.Razor.xml
+H:\abdo\ConstructionSystem\bin\Newtonsoft.Json.xml
+H:\abdo\ConstructionSystem\bin\Antlr3.Runtime.pdb
+H:\abdo\ConstructionSystem\bin\System.Net.Http.Formatting.xml
+H:\abdo\ConstructionSystem\bin\System.Web.Http.xml
+H:\abdo\ConstructionSystem\bin\System.Web.Http.WebHost.xml
+H:\abdo\ConstructionSystem\bin\EntityFramework.xml
+H:\abdo\ConstructionSystem\bin\EntityFramework.SqlServer.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Google.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.xml
+H:\abdo\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csprojAssemblyReference.cache
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentEmployeesTBLS.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateManagerTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeProjectTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentLocationTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddColumnsInUserTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddAgeColumn.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.EditEmailColumnInEmployeeTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateServiceTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectServiceTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientProjectTBL.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.test55.resources
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.GenerateResource.cache
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CoreCompileInputs.cache
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CopyComplete
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.dll
+H:\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.pdb
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\ConstructionSystem.dll.config
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\ConstructionSystem.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\ConstructionSystem.pdb
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\csc.exe
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\csc.exe.config
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\csc.rsp
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\csi.exe
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\csi.exe.config
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\csi.rsp
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.AppContext.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Console.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.IO.Pipes.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Security.Claims.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\vbc.exe
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\vbc.exe.config
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\vbc.rsp
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Antlr3.Runtime.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\EntityFramework.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Newtonsoft.Json.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Owin.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Helpers.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Http.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Mvc.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Optimization.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Razor.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.WebPages.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\WebGrease.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Helpers.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Mvc.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Optimization.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Razor.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.WebPages.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Newtonsoft.Json.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Antlr3.Runtime.pdb
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Http.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\EntityFramework.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csprojAssemblyReference.cache
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentEmployeesTBLS.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateManagerTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeProjectTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentLocationTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddColumnsInUserTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddAgeColumn.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.EditEmailColumnInEmployeeTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateServiceTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectServiceTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientProjectTBL.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.test55.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.GenerateResource.cache
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CoreCompileInputs.cache
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CopyComplete
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.dll
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.pdb
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.testt.resources
+C:\Users\laptop market\Desktop\finish  him\abdo\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.sd.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\ConstructionSystem.dll.config
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\ConstructionSystem.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\ConstructionSystem.pdb
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\csc.exe
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\csc.exe.config
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\csc.rsp
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\csi.exe
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\csi.exe.config
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\csi.rsp
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\Microsoft.Managed.Core.targets
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.AppContext.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Console.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.IO.Compression.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.IO.FileSystem.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.IO.Pipes.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Security.AccessControl.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Security.Claims.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Security.Principal.Windows.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.ValueTuple.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Xml.XmlDocument.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Xml.XPath.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\vbc.exe
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\vbc.exe.config
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\vbc.rsp
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\VBCSCompiler.exe
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Antlr3.Runtime.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\EntityFramework.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\EntityFramework.SqlServer.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Google.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Newtonsoft.Json.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Owin.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Net.Http.Formatting.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Helpers.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Http.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Http.WebHost.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Mvc.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Optimization.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Razor.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.WebPages.Deployment.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.WebPages.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.WebPages.Razor.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\WebGrease.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Helpers.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Mvc.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Optimization.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Razor.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.WebPages.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.WebPages.Deployment.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.WebPages.Razor.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Newtonsoft.Json.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Antlr3.Runtime.pdb
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Net.Http.Formatting.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Http.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\System.Web.Http.WebHost.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\EntityFramework.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\EntityFramework.SqlServer.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Google.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csprojAssemblyReference.cache
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentEmployeesTBLS.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateManagerTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeProjectTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentLocationTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddColumnsInUserTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddAgeColumn.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.EditEmailColumnInEmployeeTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateServiceTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectServiceTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientProjectTBL.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.test55.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.testt.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.sd.resources
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.GenerateResource.cache
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CopyComplete
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.dll
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.pdb
+D:\construction copmany\ConstructiobSystem\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\ConstructionSystem.dll.config
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\ConstructionSystem.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\ConstructionSystem.pdb
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\csc.exe
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\csc.exe.config
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\csc.rsp
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\csi.exe
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\csi.exe.config
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\csi.rsp
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.AppContext.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Console.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.IO.Compression.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Security.Claims.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.ValueTuple.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\vbc.exe
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\vbc.exe.config
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\vbc.rsp
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Antlr3.Runtime.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\EntityFramework.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Newtonsoft.Json.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Owin.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Helpers.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Http.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Mvc.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Optimization.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Razor.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.WebPages.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\WebGrease.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Helpers.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Mvc.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Optimization.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Razor.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.WebPages.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Newtonsoft.Json.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Http.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\EntityFramework.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.csprojAssemblyReference.cache
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentEmployeesTBLS.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateManagerTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateEmployeeProjectTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateDepartmentLocationTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddColumnsInUserTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.AddAgeColumn.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.EditEmailColumnInEmployeeTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateServiceTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateProjectServiceTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.CreateClientProjectTBL.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.test55.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.testt.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.Migrations.sd.resources
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.GenerateResource.cache
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.csproj.CopyComplete
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.dll
+C:\Users\Computer Market\Desktop\Last-Ver-ITIProj\Construction-Company\ConstructionSystem\obj\Debug\ConstructionSystem.pdb

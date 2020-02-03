@@ -1,0 +1,121 @@
+﻿@model ConstructionSystem.Models.RegisterViewModel
+
+@{
+    ViewBag.Title = "Register";
+}
+@section AdminNav{
+    @{Html.RenderPartial("_AdminNav");}
+}
+@section styles{
+    <link rel="stylesheet" type="text/css" href="~/library/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link href="~/library/material-design-iconic-font.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/library/bootstrap.min.css" rel="stylesheet" />
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link href="~/library/nouislider.min.css" rel="stylesheet" />
+    <!---------------------------------------------------------------------------------------------->
+    <!--Main CSS-->
+    <link href="~/css/css.css" rel="stylesheet" />
+}
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-5 col-sm-4 right"></div>
+        <div class="col-lg-7 col-sm-8 left">
+            <div class="row">
+                <div class="col"></div>
+                <div class="col-lg-6 col-sm-8">
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+                        <span class="login-form-title">
+                            Create a new account.
+                        </span>
+                        <div class="form-horizontal">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            <div class="form-group inp-div validate-input sd">
+                                <span class="label-input100">Email</span>
+                                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control input100p form-control" } })
+                                <span class="focus-input100"></span>
+                            </div>
+
+                            <div class="form-group inp-div validate-input sd">
+                                <span class="label-input100">Password</span>
+                                @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control input100p form-control" } })
+                                <span class="focus-input100"></span>
+                            </div>
+
+                            <div class="form-group inp-div validate-input sd">
+                                <span class="label-input100">Confirm Password</span>
+                                @Html.EditorFor(model => model.ConfirmPassword, new { htmlAttributes = new { @class = "form-control input100p form-control" } })
+                                <span class="focus-input100"></span>
+                            </div>
+
+                            <div class="form-group inp-div validate-input sd">
+                                <span class="label-input100">Role</span>
+                                <input type="radio" value="true" checked name="Role" />  &nbsp;&nbsp;<strong>Employee</strong>
+                                <input type="radio" value="false" name="Role" /> &nbsp;&nbsp;<strong>Admin</strong>
+                                <span class="focus-input100"></span>
+                            </div>
+
+                            <div class="form-group container-login100-form-btn bt">
+                                <div class=" wrap-login100-form-btn">
+                                    <input type="submit" value="Register" class="login100-form-btn" />
+                                </div>
+                            </div>
+                        </div>
+                    }
+
+                </div>
+                <div class="col"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@*@using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-horizontal">
+            <h4>RegisterViewModel</h4>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Password, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.ConfirmPassword, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.ConfirmPassword, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.ConfirmPassword, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Create" class="btn btn-default" />
+                </div>
+            </div>
+        </div>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>*@
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

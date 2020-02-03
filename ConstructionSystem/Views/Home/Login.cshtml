@@ -1,0 +1,147 @@
+﻿@model ConstructionSystem.Models.LoginViewModel
+@{ 
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    @*/*********************bootstrap css*********************************/*@
+
+    <link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    @*/*********************bootstrap JS*********************************/
+
+        <script src="~/bootstrap/js/bootstrap.min.js"></script>*@
+
+    @*/*********************Fontawesome Css*********************************/*@
+    <link href="~/fontawesome-free-5.11.2-web/css/all.css" rel="stylesheet" />
+
+    @*/*********************Fontawesome JS*********************************/*@
+    <script src="~/fontawesome-free-5.11.2-web/js/all.min.js"></script>
+
+    @*/*********************css*********************************/*@
+    <link href="~/Project Css/Login.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="bootstrap-4.1.3/dist/css/bootstrap.min.css">
+
+
+
+    <title>Login</title>
+</head>
+<body @*class="emp-prof"*@>
+    @section UserNav{
+        @{ Html.RenderPartial("_UserNav");}
+    }
+
+    <div class="limiter">
+        <div class="container-login100">
+            <div class="wrap-login100 p-t-85 p-b-20">
+                @using (Html.BeginForm("Login", "Account", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post, new { @class = "form-horizontal login100-form validate-form", role = "form" }))
+                {
+
+                    <span class="login100-form-title p-b-70">
+                        Login Form
+                    </span>
+                    <br />
+                    <span class="login100-form-avatar">
+                        <img src="~/images/avatar-01.jpg" />
+
+                    </span>
+
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
+                    <div class="form-group wrap-input100 validate-input m-t-85 m-b-35" data-validate="Enter Email">
+                                       @Html.LabelFor(m => m.Email, new { @class = "col-md-2 input100" })
+                                       <div class="col-md-10">
+                                           @Html.TextBoxFor(m => m.Email, new { @class = "input100" })
+                                                   @*<span class="focus-input100" data-placeholder="Email"></span>*@
+                                           @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                                       </div>
+                                   </div>
+                                   <br />
+                        <div class="form-group wrap-input100 validate-input m-t-85 m-b-35" data-validate="Enter password">
+                                       @Html.LabelFor(m => m.Password, new { @class = "col-md-2 input100" })
+                                       <div class="col-md-10">
+                                           @Html.PasswordFor(m => m.Password, new { @class = "input100" })
+                                        @*<span class="focus-input100" data-placeholder="Password"></span>*@
+                                           @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                                       </div>
+                                   </div>
+
+
+                    @*<div class="wrap-input100 validate-input m-t-85 m-b-35" data-validate="Enter Email">
+                        <input class="input100" type="text" name="Email">
+                        <span class="focus-input100" data-placeholder="Email"></span>
+                    </div>
+
+                    <div class="wrap-input100 validate-input m-b-50" data-validate="Enter password">
+                        <input class="input100" type="password" name="Password">
+                        <span class="focus-input100" data-placeholder="Password"></span>
+                    </div>*@
+                    <br />
+                    <br />
+                    <div class="container-login100-form-btn">
+                        <input type="submit" value="Login" class="login100-form-btn btn-dark" />
+                    </div>
+
+                    <br />
+                    <br />
+                    <br />
+                    @*<ul class="login-more p-t-190">
+                        <li class="m-b-8">
+                            <span class="txt1">
+                                Forgot
+                            </span>
+
+                            <a href="#" class="txt2">
+                                Username / Password?
+                            </a>
+                        </li>
+
+                        <li>
+                            <span class="txt1">
+                                Don’t have an account?
+                            </span>
+                            @Html.ActionLink("Sign up", "Register" , "Home", null, new { @class = "txt2" })
+                            @*<a href="#" class="txt2">
+                                Sign up
+                            @*</a>*@
+                        @*</li>*@
+                    @*</ul>*@
+                }
+
+            </div>
+        </div>
+    </div>
+
+
+    <div id="dropDownSelect1"></div>
+
+
+
+    <!--===============================================================================================-->
+    @*<script src="vendor/jquery/jquery-3.2.1.min.js"></script>*@
+    <!--===============================================================================================-->
+    @*<script src="vendor/animsition/js/animsition.min.js"></script>*@
+    <!--===============================================================================================-->
+    @*<script src="vendor/bootstrap/js/popper.js"></script>
+        <script src="vendor/bootstrap/js/bootstrap.min.js"></script>*@
+    <!--===============================================================================================-->
+    @*<script src="vendor/select2/select2.min.js"></script>*@
+    <!--===============================================================================================-->
+    @*<script src="vendor/daterangepicker/moment.min.js"></script>
+        <script src="vendor/daterangepicker/daterangepicker.js"></script>*@
+    <!--===============================================================================================-->
+    @*<script src="vendor/countdowntime/countdowntime.js"></script>*@
+    <!--===============================================================================================-->
+    @*<script src="js/main.js"></script>*@
+
+</body>
+</html>
+

@@ -1,0 +1,185 @@
+﻿
+@section styles{
+
+    @*/*********************bootstrap css*********************************/*@
+
+    <link href="~/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+
+    @*/*********************Fontawesome Css*********************************/*@
+    <link href="~/fontawesome-free-5.11.2-web/css/all.css" rel="stylesheet" />
+
+
+    @*/*********************css*********************************/*@
+
+    <link href="~/Project Css/project.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="bootstrap-4.1.3/dist/css/bootstrap.min.css">
+
+   
+}
+    @*/*********************Fontawesome JS*********************************/*@
+    <script src="~/fontawesome-free-5.11.2-web/js/all.min.js"></script>
+
+  
+
+    <body>
+        @section UserNav{
+            @{ Html.RenderPartial("_UserNav");}
+        }
+        <section class="sec-img">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-12 col img-baner">
+
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <section>
+            <div class="container mt-2">
+
+                <div class="row">
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="card card-block">
+
+                            <img src="~/images/iixucvh3bjc7bhofc5bl.jpg" class="img-block" />
+
+                            <h5 class="card-title mt-3 mb-3 text-center">El Brouj Towers</h5>
+                            <p class="card-text">The units come with tiled floors and feature a fully equipped kitchen with a dishwasher, a dining area .</p>
+                            <button type="button" class="btn btn-dark first" data-toggle="modal" data-target="#myModal">
+                                Details
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="card card-block">
+
+                            <img src="~/images/1sctions.png" class="img-block" />
+
+
+                            <h5 class="card-title mt-3 mb-3 text-center">El Yasmin Towers</h5>
+                            <p class="card-text">The units are comfortable  and have an amazing view. </p>
+                            <button type="button" class="btn btn-dark second" data-toggle="modal" data-target="#myModal">
+                                Details
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="card card-block">
+
+
+                            <img src="~/images/bg_1.jpg" class="img-block" />
+
+                            <h5 class="card-title mt-3 mb-3 text-center">El Shrouk Villa</h5>
+                            <p class="card-text"> Enjoy all the comfort in villas with traditionnal sumbanese architecture. Relax around the swimming pool or in a hammoc with sea view. </p>
+                            <button type="button" class="btn btn-dark third" data-toggle="modal" data-target="#myModal">
+                                Details
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3 col-sm-6">
+                        <div class="card card-block">
+
+                            <img src="~/images/1.jpg" class="img-block" />
+
+                            <h5 class="card-title mt-3 mb-3 text-center">Degla Compounds</h5>
+                            <p class="card-text">
+                                When you are choosing a residential compound for your family, you are not just buying a house but a whole way of life.
+                            </p>
+                            <button type="button" class="btn btn-dark fourth" data-toggle="modal" data-target="#myModal">
+                                Details
+                            </button>
+                        </div>
+                    </div>
+
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <div class="firstcard">
+            <h5 class="cardtitle"><b>El Brouj Towers</b></h5>
+            <p class="cardpragraph">The units come with tiled floors and feature a fully equipped kitchen with a dishwasher, a dining area .</p>
+            <p class="cardpragraph"><b>available apartments areas: </b> 180m - 250m - 120m - 150m </p>
+            @Html.ActionLink("Register", "Register", "Clients", null, new { @class = "btn btn-dark" })
+
+        </div>
+
+        <div class="secondcard">
+            <h5 class="cardtitle"><b>El Yasmin Towers</b></h5>
+            <p class="cardpragraph">The units are comfortable, have an amazing view and have a huge gardens around.</p>
+            <p class="cardpragraph"><b>available apartments areas: </b> 350m - 290m - 300m - 320m </p>
+            @Html.ActionLink("Register", "Register", "Clients", null, new { @class = "btn btn-dark" })
+
+        </div>
+
+        <div class="thirdcard">
+            <h5 class="cardtitle"><b>El Shrouk Villa</b></h5>
+            <p class="cardpragraph">Enjoy all the comfort in villas with traditionnal sumbanese architecture. Relax around the swimming pool or in a hammoc with sea view..</p>
+            <p class="cardpragraph"><b>Area : </b> 800m </p>
+            <p class="cardpragraph"><b>around garden : </b> 1000m </p>
+            @Html.ActionLink("Register", "Register", "Clients", null, new { @class = "btn btn-dark" })
+
+
+        </div>
+
+        <div class="fourthcard">
+            <h5 class="cardtitle"><b>Degla Compounds</b></h5>
+            <p class="cardpragraph">When you are choosing a residential compound for your family, you are not just buying a house but a whole way of life. </p>
+            <p class="cardpragraph"><b>available apartments areas: </b> 180m - 350m - 320m - 150m -200m - Duplex(500m)</p>
+            @Html.ActionLink("Register", "Register", "Clients", null, new { @class = "btn btn-dark" })
+
+        </div>
+
+
+        @*/***********************Jquery*********************/*@
+        <script src="~/Scripts/jquery-3.3.1.js"></script>
+
+        @*/***********************Bootstrap JS*********************/*@
+
+
+        <script src="~/bootstrap/js/bootstrap.min.js"></script>
+
+
+        @*/***********************js*********************/*@
+        <script src="~/Project-JS/project.js"></script>
+    </body>
+
+@*<script>
+    $(document).ready(function () {
+        $(".first").click(function () {
+            $(".firstcard").slideToggle("slow");
+            $(".secondcard").hide();
+            $(".thirdcard").hide();
+            $(".fourthcard").hide();
+
+        });
+        $(".second").click(function () {
+            $(".secondcard").slideToggle("slow");
+            $(".firstcard").hide();
+            $(".thirdcard").hide();
+            $(".fourthcard").hide();
+        });
+        $(".third").click(function () {
+            $(".thirdcard").slideToggle("slow");
+            $(".secondcard").hide();
+            $(".firstcard").hide();
+            $(".fourthcard").hide();
+        });
+        $(".fourth").click(function () {
+            $(".fourthcard").slideToggle("slow");
+            $(".firstcard").hide();
+            $(".thirdcard").hide();
+            $(".secondcard").hide();
+        });
+    });
+</script>*@
